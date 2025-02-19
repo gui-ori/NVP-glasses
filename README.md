@@ -9,8 +9,9 @@ VxOy-P2O5
 Na2O-VxOy-P2O5
 >28.6Na2O-42.9VxOy [V2O4 + V2O5]-28.6P2O5 and 37.50Na2O-25VxOy[V2O4 +V2O5]-37.50P2O5<br>
 Enhanced structural description of sodium vanadium phosphate glasses: Acombined experimental and molecular dynamics study
-[J. Non-Cryst. Solids (2025): 122967]()
-[NOMAD](https://dx.doi.org/10.17172/NOMAD/2024.03.04-1)
+[J. Non-Cryst. Solids (2025): ](...)
+[NOMAD][NVP25-PBE](10.17172/NOMAD/2025.02.19-1) [NVP25-PBE0](10.17172/NOMAD/2025.02.19-3)
+>[NOMAD][NVP43-PBE](10.17172/NOMAD/2025.02.19-2) [NVP43-PBE0](10.17172/NOMAD/2025.02.19-4)
 
 
 
